@@ -5,6 +5,9 @@
         // This is a comment
         // I forgot this comment
 
+
+        // A reference to Genre is added here
+
         // Add reference to Rental
     }
 }
